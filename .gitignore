@@ -15,8 +15,6 @@ env/
 .env
 .env.*
 
-# Generated caches
-.metarag/
 
 # Python caches
 .pytest_cache/

@@ -207,7 +207,8 @@ class SentenceTransformerEmbeddings:
 embeddings = CachedEmbeddings(
     SentenceTransformerEmbeddings(
         "BAAI/bge-small-en-v1.5"
-    )
+    ),
+    cache_dir=str(BASE_DIR / ".metarag" / "embeddings"),
 )
 
 

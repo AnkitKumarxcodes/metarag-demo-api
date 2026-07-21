@@ -1,0 +1,9 @@
+{
+  "num_docs": 65,
+  "avg_chunk_length": 425.23,
+  "ocr_ratio": null,
+  "duplicate_ratio": 0.0,
+  "numeric_ratio": 0.0,
+  "short_doc_ratio": 0.031,
+  "chunk_strategy": "recursive"
+}
